@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#dependências">Dependências</a> •
+ <a href="#-dependências">Dependências</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
@@ -26,17 +26,17 @@
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-## Dependências
+## ⚙️ Dependências
 
-    Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-    [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-    Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-    ```bash
-    # Instale as dependências
-    $ npm install
+```bash
+# Instale as dependências
+    npm install
 
-    ```
+```
 
 ---
 
